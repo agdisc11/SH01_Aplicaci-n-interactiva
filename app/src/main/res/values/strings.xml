@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mis Tareas</string>
+    <string name="titulo">Mis Tareas</string>
+
+    <string name="resumen">Completadas: %1$d/%2$d</string>
+
+    <string name="campo_nueva_tarea">Nueva tarea</string>
+    <string name="boton_agregar">Agregar</string>
+
+    <string name="filtro_todas">Todas</string>
+    <string name="filtro_pendientes">Pendientes</string>
+    <string name="filtro_completadas">Completadas</string>
+
+    <string name="lista_vacia">No hay tareas en este filtro</string>
+
+    <string name="error_vacio">Escribe el nombre de la tarea</string>
+    <string name="error_largo">El nombre es demasiado largo</string>
+    <string name="error_repetida">Esa tarea ya existe</string>
+</resources>
