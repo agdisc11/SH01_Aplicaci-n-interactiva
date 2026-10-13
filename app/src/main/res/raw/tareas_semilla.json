@@ -1,0 +1,7 @@
+[
+  { "id": 1, "titulo": "Entregar requisitos y mockups", "completada": true },
+  { "id": 2, "titulo": "Presentar avance en clase", "completada": false },
+  { "id": 3, "titulo": "Repasar StateFlow y MVVM", "completada": false },
+  { "id": 4, "titulo": "Estudiar para Cálculo", "completada": false },
+  { "id": 5, "titulo": "Subir proyecto a GitHub", "completada": false }
+]
